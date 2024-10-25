@@ -4,7 +4,7 @@
 
 Welcome to the **Escape Room** project, a text-based game developed as a group project during our first week learning Python. This repository showcases the application of Python skills learned during the first week of the bootcamp, emphasizing coding, teamwork, and problem-solving.
 
-### Team Members:
+### The Team:
 
 - [markmorcos](https://github.com/markmorcos)
 - [simovaeliska](https://github.com/simovaeliska)
